@@ -1,3 +1,3 @@
-# dice_roll
+# Dice Roll Application
 
-A new Flutter project.
+A simple applciation built using flutter to simulate a dice roll, generating a random number from 1 to 6.
